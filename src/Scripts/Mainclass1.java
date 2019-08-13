@@ -16,7 +16,7 @@ public class Mainclass1 {
 		}
 		
 		
-		
+		System.out.println(n)
 		System.out.println(s);
 		System.out.println(count);
 			
